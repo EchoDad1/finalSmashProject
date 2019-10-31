@@ -1,0 +1,10 @@
+\\ghs-file1.lvjusd.k12.ca.us\student data\evren.yun\my documents\visual studio 2015\Projects\SUPPER SMAH BORS2\bin\Debug\SUPPER SMAH BORS2.exe.config
+\\ghs-file1.lvjusd.k12.ca.us\student data\evren.yun\my documents\visual studio 2015\Projects\SUPPER SMAH BORS2\bin\Debug\SUPPER SMAH BORS2.exe
+\\ghs-file1.lvjusd.k12.ca.us\student data\evren.yun\my documents\visual studio 2015\Projects\SUPPER SMAH BORS2\bin\Debug\SUPPER SMAH BORS2.pdb
+\\ghs-file1.lvjusd.k12.ca.us\student data\evren.yun\my documents\visual studio 2015\Projects\SUPPER SMAH BORS2\obj\Debug\SUPPER SMAH BORS2.csprojResolveAssemblyReference.cache
+\\ghs-file1.lvjusd.k12.ca.us\student data\evren.yun\my documents\visual studio 2015\Projects\SUPPER SMAH BORS2\obj\Debug\SUPPER_SMAH_BORS2.Form1.resources
+\\ghs-file1.lvjusd.k12.ca.us\student data\evren.yun\my documents\visual studio 2015\Projects\SUPPER SMAH BORS2\obj\Debug\SUPPER_SMAH_BORS2.Form2.resources
+\\ghs-file1.lvjusd.k12.ca.us\student data\evren.yun\my documents\visual studio 2015\Projects\SUPPER SMAH BORS2\obj\Debug\SUPPER_SMAH_BORS2.Properties.Resources.resources
+\\ghs-file1.lvjusd.k12.ca.us\student data\evren.yun\my documents\visual studio 2015\Projects\SUPPER SMAH BORS2\obj\Debug\SUPPER SMAH BORS2.csproj.GenerateResource.Cache
+\\ghs-file1.lvjusd.k12.ca.us\student data\evren.yun\my documents\visual studio 2015\Projects\SUPPER SMAH BORS2\obj\Debug\SUPPER SMAH BORS2.exe
+\\ghs-file1.lvjusd.k12.ca.us\student data\evren.yun\my documents\visual studio 2015\Projects\SUPPER SMAH BORS2\obj\Debug\SUPPER SMAH BORS2.pdb
